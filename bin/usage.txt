@@ -1,0 +1,7 @@
+git-fixup - Fixup a git rebase
+
+  usage: git-fixup [options] <number of commits>
+
+  options:
+    -h, --help                    show help and usage
+    -v, --version                 show version

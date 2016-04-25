@@ -1,0 +1,23 @@
+{
+  "name": "git-fixup",
+  "version": "1.0.0",
+  "description": "Make rebasing git commits via fixup simple",
+  "main": "index.js",
+  "dependencies": {
+    "help": "~2.1.2"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "bin": {
+    "git-fixup": "./bin/cmd.js"
+  },
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/git-fixup"
+  },
+  "homepage": "https://github.com/evanlucas/git-fixup",
+  "bugs": {
+    "url": "https://github.com/evanlucas/git-fixup/issues"
+  }
+}
