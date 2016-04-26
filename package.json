@@ -1,5 +1,5 @@
 {
-  "name": "git-fixup",
+  "name": "git-fixit",
   "version": "1.0.0",
   "description": "Make rebasing git commits via fixup simple",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "devDependencies": {},
   "license": "MIT",
   "bin": {
-    "git-fixup": "./bin/cmd.js"
+    "git-fixit": "./bin/cmd.js"
   },
   "author": "Evan Lucas <evanlucas@me.com>",
   "repository": {

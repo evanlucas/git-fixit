@@ -1,6 +1,6 @@
-git-fixup - Fixup a git rebase
+git-fixit - Fixup a git rebase
 
-  usage: git-fixup [options] <number of commits>
+  usage: git-fixit [options] <number of commits>
 
   options:
     -h, --help                    show help and usage

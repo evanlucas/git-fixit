@@ -5,7 +5,7 @@ Fixup a rebase
 ## Install
 
 ```bash
-$ npm install [-g] git-fixup
+$ npm install [-g] git-fixit
 ```
 
 ## Example
@@ -17,7 +17,7 @@ You would normally have to:
 $ git rebase -i HEAD~4
 # and then manually change the last 3 `pick` to `fixup`
 # now, just run
-$ git-fixup 4
+$ git-fixit 4
 ```
 
 

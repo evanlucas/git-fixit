@@ -13,7 +13,7 @@ if (n === '--help' || n === '-h') {
 }
 
 if (n === '--version' || n === '-v') {
-  console.log('git-fixup', `v${require('../package').version}`)
+  console.log('git-fixit', `v${require('../package').version}`)
   return
 }
 
