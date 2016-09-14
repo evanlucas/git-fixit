@@ -1,4 +1,4 @@
-# git-fixup
+# git-fixit
 
 Fixup a rebase
 

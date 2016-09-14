@@ -14,10 +14,10 @@
   "author": "Evan Lucas <evanlucas@me.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evanlucas/git-fixup"
+    "url": "https://github.com/evanlucas/git-fixit"
   },
-  "homepage": "https://github.com/evanlucas/git-fixup",
+  "homepage": "https://github.com/evanlucas/git-fixit",
   "bugs": {
-    "url": "https://github.com/evanlucas/git-fixup/issues"
+    "url": "https://github.com/evanlucas/git-fixit/issues"
   }
 }
